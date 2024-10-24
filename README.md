@@ -1,41 +1,62 @@
-# 👋 Hi there! I'm Shubham, a Full Stack Web Developer 🚀
+<h1 align="center">Hi there! I'm Shubham 👋</h1>
+<h3 align="center">A passionate Full Stack Developer from India 🚀</h3>
 
-I'm a passionate **Full Stack Developer** with a strong emphasis on **backend development**. With over **2.4 years of experience**, I specialize in crafting scalable, efficient backend systems and creating clean, responsive front-end interfaces. Whether it's designing APIs or working with complex databases, I aim to deliver top-notch solutions that power dynamic web applications.
-
----
-
-### 🔧 Tech Stack & Expertise
-
-- **Languages**: Java, JavaScript, TypeScript
-- **Backend**: Spring Boot, Spring MVC, Hibernate
-- **Frontend**: React, Tailwind CSS, Bootstrap, Material UI
-- **Databases**: MySQL, PostgreSQL, MongoDB, SQL
-- **Tools & Platforms**: Git, GitHub, Bitbucket, MySQL Workbench, Oracle SQL Developer
-- **IDEs**: Eclipse, VS Code, IntelliJ IDEA
-- **Testing**: Jest, Unit Testing
+<p align="center">
+  <a href="https://instagram.com/snh.rai" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.leetcode.com/snh_rai" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
+</p>
 
 ---
 
-### 🌟 What I Do
-- **Backend Development**: Building robust, scalable APIs and microservices.
-- **Full Stack Solutions**: Designing responsive front-end interfaces that connect seamlessly with back-end systems.
-- **Database Optimization**: Optimizing data structures and improving performance.
-- **Problem Solving**: Collaborating across teams to solve complex problems with innovative solutions.
-- **Continuous Learning**: Keeping up with the latest trends to stay ahead in the ever-evolving tech landscape.
+### 💻 Languages and Tools:
+<p align="center">
+  <a href="https://aws.amazon.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/>
+  </a>
+  <a href="https://getbootstrap.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="50" height="50"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50"/>
+  </a>
+  <a href="https://www.java.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/>
+  </a>
+  <a href="https://redux.js.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="50" height="50"/>
+  </a>
+  <a href="https://spring.io/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="50" height="50"/>
+  </a>
+</p>
 
 ---
 
-### 📈 Always Learning
-I believe in the power of **continuous learning** and enjoy exploring the latest tech trends. Whether it's new Java frameworks, front-end libraries, or improving security practices, I'm always looking for ways to grow my skill set and apply them to real-world projects.
+### 📊 GitHub Stats:
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=snhrai&show_icons=true&locale=en" alt="snhrai" />
+</p>
 
 ---
 
-### 📫 Let's Connect
-I'm always open to discussing new opportunities, collaborations, or even geeking out over the latest tech. Feel free to connect with me on:
-
-- [LinkedIn](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile) 
-- [Email](sr35285@gmail.com)
+### 🔥 Streaks:
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=snhrai&theme=radical" alt="snhrai streaks"/>
+</p>
 
 ---
 
-🚀 **Let’s build something great together!**
+### 📈 Contributions:
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=snhrai&theme=react-dark" alt="GitHub Activity Graph"/>
+</p>
