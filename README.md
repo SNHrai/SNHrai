@@ -5,13 +5,28 @@
 
 ### 📫 Connect with Me:
 <p align="center">
- <a href="https://instagram.com/snh.rai" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" style="border-radius: 10px;"/>
-</a>
-<a href="https://www.leetcode.com/snh_rai" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" style="border-radius: 10px;"/>
-</a>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <!-- Email -->
+  <a href="mailto:sr35285@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <!-- Mobile -->
+  <a href="tel:+918087701542" target="_blank">
+    <img src="https://img.shields.io/badge/Mobile-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Mobile" />
+  </a>
+  <!-- Instagram -->
+  <a href="https://instagram.com/snh.rai" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <!-- LeetCode -->
+  <a href="https://www.leetcode.com/snh_rai" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
 </p>
+
 
 ---
 
